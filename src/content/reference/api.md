@@ -181,6 +181,8 @@ we'll give you lots of notice and a clear upgrade path.
 
 ## Devices
 {{> api group=apiGroups.Devices}}
+## SIM Cards
+{{> api group=apiGroups.Sims}}
 ## Events
 {{> api group=apiGroups.Events}}
 ## Integrations
